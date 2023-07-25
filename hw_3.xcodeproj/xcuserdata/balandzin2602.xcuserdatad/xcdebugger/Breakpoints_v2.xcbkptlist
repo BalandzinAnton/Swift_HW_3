@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3561160C-3F72-4F39-8700-83CF408900AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36AD76C6-ADF3-40A9-BF4F-7BC09DA22DE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hw_3/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "36AD76C6-ADF3-40A9-BF4F-7BC09DA22DE0 - 3b596d6855df5e1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "hw_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balandzin2602/Geek%20Brains/Swift/Lessons%20GB/hw_3/hw_3/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "36AD76C6-ADF3-40A9-BF4F-7BC09DA22DE0 - 3b596d6855df632b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "hw_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balandzin2602/Geek%20Brains/Swift/Lessons%20GB/hw_3/hw_3/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "36AD76C6-ADF3-40A9-BF4F-7BC09DA22DE0 - 3b596d6855df62e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "hw_3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balandzin2602/Geek%20Brains/Swift/Lessons%20GB/hw_3/hw_3/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CE9261B-1784-46D9-80B1-5A971A730F52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hw_3/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
